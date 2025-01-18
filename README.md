@@ -1,5 +1,6 @@
 ### 1. Development Tools
 (1) vscode
+
 (2) miniconda
 
 ### 2. Installing Dependencies
@@ -10,6 +11,7 @@
   - C/C++
   - C/C++ Extension Pack
   - C/C++ Themes
+    
 (2) miniconda pip install
   - python 3.13.1
   - setuptools 75.1.0
