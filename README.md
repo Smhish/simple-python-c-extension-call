@@ -38,6 +38,7 @@
   - cmd execute install module commands : 【python setup.py install】, This is install folder
 
   ![螢幕擷取畫面 2025-01-19 010220](https://github.com/user-attachments/assets/69548608-20df-49cc-9921-2ac030c687f2)
+  ![螢幕擷取畫面 2025-01-19 010221](https://github.com/user-attachments/assets/f1e7234a-4574-4ee2-9cb0-20c864743ac5)
 
 ### 4. Excute project.py
   - Test if the C extension module functions can be called and print the default values of string, bool, int, and double.
