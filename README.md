@@ -40,9 +40,14 @@
   ![螢幕擷取畫面 2025-01-19 010220](https://github.com/user-attachments/assets/69548608-20df-49cc-9921-2ac030c687f2)
   ![螢幕擷取畫面 2025-01-19 010221](https://github.com/user-attachments/assets/f1e7234a-4574-4ee2-9cb0-20c864743ac5)
 
-### 4. Excute project.py
+### 5. Excute project.py
   - Test if the C extension module functions can be called and print the default values of string, bool, int, and double.
 
   ![螢幕擷取畫面 2025-01-19 010332](https://github.com/user-attachments/assets/199f4486-1089-4f97-981f-665972577ac9)
+
+### 6. Future Plans
+  - In the future, a compressed package with .whl containing the .pyd file will be created for fast and stable installation via pip. This will enable Python to call C extension module functions and output default values.
+
+  - The ultimate goal is to enable Python to accelerate the computation of AI model training through C extension modules.
 
 
